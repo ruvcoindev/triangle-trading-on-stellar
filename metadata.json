@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Tri-Arbitrage Finder",
+  "description": "A sophisticated tool to identify and simulate triangular arbitrage opportunities on the Stellar blockchain. Users can select a base asset, specify an investment amount, and discover profitable 3-token trading cycles.",
+  "requestFramePermissions": []
+}
